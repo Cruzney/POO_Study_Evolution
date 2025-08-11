@@ -1,2 +1,2 @@
-Este desfio foi proposto em um code tank, onde foi nos apresentado a linguagem Java e fomos convidados da dar os primeiros passsos.
+Este desafio foi proposto em um code tank, onde foi nos apresentado a linguagem Java e fomos convidados da dar os primeiros passsos.
 Programa de uma única classe que faz tudo, recebe dados do usuario processa e exibe, ainda há uma simples try que trata a entrada do usuario verificando se é número inteiro, se não for é exibida uma menssagem de alerta e o programa é encerrado evitando que quebre insperadamente.
