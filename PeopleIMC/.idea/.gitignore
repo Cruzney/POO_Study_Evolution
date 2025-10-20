@@ -1,0 +1,35 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Build directories
+/target/
+/build/
+/out/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+/.idea/
+/*.iml
+
+# Gradle
+/.gradle/
+/gradle/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.log
+.env
+
